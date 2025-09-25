@@ -43,3 +43,10 @@ Bu sonuçlar, modelin eğitim verisi üzerinde tatmin edici bir performansa ula�
 ├── results/                                              # Eğitim sonuçları ve grafikler
 └── README.md                                             # Bu dosya
 ```
+
+## 10. Projenin Kaggle Linki  
+
+Bu projenin detaylı notebook çalışmasına ve sonuçlarına Kaggle platformu üzerinden ulaşabilirsiniz. Eğitim süreci, model mimarisi, hiperparametreler ve çıktı görselleri Kaggle üzerinde paylaşılan not defterinde adım adım incelenebilir.  
+
+🔗 [Car Brand Classification Using EfficientNet-B3 – Kaggle Notebook](https://www.kaggle.com/code/memreu/car-brand-classification-using-efficientnet-b3)
+
